@@ -22,10 +22,6 @@ Developed by: Thenmozhi
 RegisterNumber:  212221230116
 */
 
-/*
-Program to implement the SVM For Spam Mail Detection..
-Developed by: Yuvadarshini S
-RegisterNumber: 212221230126 
 
 import pandas as pd
 data=pd.read_csv("spam.csv",encoding='Windows-1252')
